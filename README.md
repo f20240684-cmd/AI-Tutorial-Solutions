@@ -6,7 +6,7 @@ The repository is organized tutorial-wise so that the code and related files for
 
 ## Repository Structure
 
-
+```text
 AI-Tutorial-Solutions/
 │
 ├── Tut 1/
